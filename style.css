@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+   background: #222E2B;
+}
+.hero-title h1{
+    font-size: 50px;
+    color:  #333;
+}
+.hero-section hr {
+	width: 43px;
+	height: 2px;
+	color: #e3ba5c;
+	margin: 0 auto;
+	margin-top: 109px;
+}
+.hero-sub-title p {
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 1.5px;
+    color: #ECD49A;
+}
+.container-fluid {
+    background: #222E2B; 
+}
+.section-two-part {
+	background: #e3ba5c;
+	height: 608px;
+}
+.part-title h1 {
+    font-size: 4rem;
+}
+.three-subtitle {
+	line-height: 74px;
+}
+.section-three {
+    background: #e3ba5c;
+    height:466px;
+}
+.image {   
+    width: 330px;
+}
+.five-img-two.w-75 {
+	margin-top: -373px;
+}
+.section-five hr{
+    width: 43px;
+	height: 2px;
+	color: #e3ba5c;
+	margin: 0 auto;
+	margin-top: 166px;
+}
+.five-subtitle p {
+	line-height: 200px;
+}
+.section-five {
+	background-image: url(./img/bg01.png);
+	background-size: cover;
+	background-position: center;
+}
+.card img {
+	height: 270px;
+}
+.lest-section{
+    background-image: url(./img/nailpolish.png);
+    background-position: center;
+    background-size: cover;
+}
